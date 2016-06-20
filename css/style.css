@@ -37,3 +37,7 @@ video#bgvid {
     background-size: cover; 
 }
 
+.portfolio-item {
+    margin-bottom: 20px;
+}
+
