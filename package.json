@@ -1,0 +1,25 @@
+{
+    "name": "Portfolio",
+    "version": "1.0.0",
+    "description": "[Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.",
+    "main": "index.js",
+    "engines": {
+        "node": "6.2.2",
+        "npm": "3.9.6"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/oneprincess789/portfolio.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/oneprincess789/portfolio/issues"
+    },
+    "homepage": "https://github.com/oneprincess789/portfolio#readme"
+}
